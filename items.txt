@@ -1,0 +1,6 @@
+476	Кобра	Lorem ipsum dolor sit amet	 consectetur adipiscing elit	 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'
+468	Анаконда	Ut enim ad minim veniam	 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'
+460	Питон	Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+452	Удав	Excepteur sint occaecat cupidatat non proident	 sunt in culpa qui officia deserunt mollit anim id est laborum.'
+444	Полоз	Lorem ipsum dolor sit amet	 consectetur adipiscing elit	 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'
+436	Тайпан	Ut enim ad minim veniam	 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'

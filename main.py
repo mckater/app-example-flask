@@ -30,7 +30,8 @@ def hello():
 
 
 def create_db():
-    with open('items.csv') as items:
+    with open('items.txt') as items:  # для Linux
+    # with open('items.csv') as items:  # для Windows
         for item in items.readlines():
             item_id, data, description = item.split(None, maxsplit=2)
             item_data = Items(item_id=item_id, data=data, description=description)
